@@ -66,5 +66,5 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a>
 </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilinikb&show_icons=true&locale=en" alt="dilinikb" /></p>
+![](https://github-readme-stats.vercel.app/api?username=DiliniKB&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilinikb&show_icons=true&locale=en" alt="dilinikb" /></p> -->
