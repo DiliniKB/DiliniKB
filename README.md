@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilini Bandara</h1>
 <h3 align="center">A passionate code loving student from UCSC</h3>
 
-- 🔭 I’m currently working on [Foodify](https://github.com/NIPUNMADHUSANKA/Foodify)
+- 🔭 I’m currently working on [Foodify](https://github.com/NIPUNMADHUSANKA/Foodify) and [SellerPoint.com](https://github.com/NIPUNMADHUSANKA/SellerPoint.Com)
 
 - 🌱 I’m currently learning **Angular, AWS and ReactJs**
 
