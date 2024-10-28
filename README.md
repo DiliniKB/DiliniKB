@@ -3,9 +3,9 @@
 
 <!-- - 🔭 I’m currently working on [Foodify](https://github.com/NIPUNMADHUSANKA/Foodify) and [SellerPoint.com](https://github.com/NIPUNMADHUSANKA/SellerPoint.Com) -->
 
-- 🌱 I’m currently learning **Angular, AWS and ReactJs**
+- 🌱 I’m currently learning **DotNet, AWS and Azure**
 
-- 💬 Ask me about **C and Java**
+- 💬 Ask me about **C, Java and Angular**
 
 - 📫 How to reach me **dilini123bandara@gmail.com**
 
